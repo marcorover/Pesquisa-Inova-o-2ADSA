@@ -6,8 +6,13 @@
   height: 40vmin;
 }
 
+:root {
+  --menu: #0c418a;
+}
+
 .app-panel {
-  background-color: #282c34;
+  background-color: #282C34;
+  /* background-image: linear-gradient(#282C34, #181F2B); */
   min-height: 100vh;
   margin-left: 100px;
   overflow-y: auto; 

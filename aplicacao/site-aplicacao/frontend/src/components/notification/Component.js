@@ -15,7 +15,7 @@ export default function Component() {
           <span className="time">31/12/1999 24:60</span>
         </div>
         <div className="notification red-notification">
-          <span className="menssage">Charlie	squad has finished the task.</span>
+          <span className="menssage">Charlie squad task end date is near.</span>
           <span className="time">31/12/1999 24:60</span>
         </div>
       </div>
